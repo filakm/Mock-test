@@ -24,3 +24,6 @@ These are the prices  of some tickets:
 |24-hour|1|17.00|8.50|
 
 # IMAGES
+![Tram1](tram1.jpg)
+![Tram2](https://images.showmethejourney.com/f_jpg,q_90,w_840,h_473,c_fit/v1621268803/20160923_091841_06aa36a07c)
+![Tram3](https://media.krakow.travel/photos/21649/noresize.jpg)
