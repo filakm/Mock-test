@@ -26,4 +26,4 @@ These are the prices  of some tickets:
 # IMAGES
 ![Tram1](tram1.jpg)
 ![Tram2](https://images.showmethejourney.com/f_jpg,q_90,w_840,h_473,c_fit/v1621268803/20160923_091841_06aa36a07c)
-![Tram3](https://media.krakow.travel/photos/21649/noresize.jpg)
+![Tram3](https://www.shutterstock.com/image-photo/krakow-poland-june-15-2024-260nw-2484535997.jpg)
