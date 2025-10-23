@@ -1,7 +1,7 @@
 # Mock-test
 
 1. Filak Michal, Filak Michal, tasks 4 and 5.
-2. Norbert Czerw, Bomber1321, tasks 1 and 6.
+2. Norbert Czerw, Norbert Czerw, tasks 1 and 6.
 3. Jakub Horowski, Jakub Horowski, tasks 2 and 3.
 
 # INTRODUCTION
