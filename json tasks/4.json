@@ -1,0 +1,13 @@
+{
+    "city":"Krakow",
+    "Transportmeans":["trams, buses"],
+    "NumbofTramlines":20,
+    "NumberofBuses":60,
+    "HasSubway": false,
+    "busEcoFriendly":true,
+    "CoverageArea": [90.2,"km"],
+    "VehicleManufacturer":{
+    "name":"Solaris",
+    "country":"Poland"
+}
+}
